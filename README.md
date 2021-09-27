@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @smg0055
+- 👀 I’m interested in computational biology
+- 🌱 I’m currently learning R and programming within Linux
+- 📫  smg0055@auburn.edu
