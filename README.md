@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @smg0055
-- 👀 I’m interested in computational biology
-- 🌱 I’m currently learning R and programming within Linux
+- �Hi! I’m @smg0055 aka Samantha Grady. I’m interested in computational biology and am currently learning R and programming within Linux.
 - 📫  smg0055@auburn.edu
